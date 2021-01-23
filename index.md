@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to BSD Users Group Slovenia
 
-You can use the [editor on GitHub](https://github.com/janprunk/BSD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About BSD Users Group Slovenia
+We are BSD systems enthusiasts in|from Slovenia. You can join our [BSDUGS mailing list](https://groups.io/g/bsd). Our live chat channels are on [Discord](https://discord.com), you can join BSDUGS group by clicking the [invitation link](https://discord.gg/.....). We also meet online on [freenode](http://www.freenode.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.freenode.net and channel [#bsd.si](https://webchat.freenode.net/#bsd.si)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 4 February 2021 (remote) Meetup
+Our next meetup will be on Thursday, 4 February 2021 at 20:00 CET. Our virtual meetings happen every first Thursday at 20:00 CET on [freenode](http://www.freenode.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#bsd.si](https://webchat.freenode.net/#bsd.si)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/janprunk/BSD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Welcome beginner's
+New to BSD systems? Longtime BSD expert? Just want to know what this is all about? Come join us! Can you give a presentation? Awesome, let us know. If you would like a basic introduction to BSD systems, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed.
