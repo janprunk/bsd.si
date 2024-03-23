@@ -1,10 +1,10 @@
 # Welcome to BSD users group Slovenia
 
 ## About BSD users group Slovenia
-We are BSD systems enthusiasts in|from Slovenia. You can join our [BSDUGS mailing list](https://groups.io/g/bsd). Our live chat channels are on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [##bsd.si](https://web.libera.chat/##bsd.si)
+We are BSD systems enthusiasts in|from Slovenia. You can join our [BSDUGS mailing list](https://groups.io/g/bsd). Our live chat channels are on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [##bsd.si](https://web.libera.chat/##bsd.si).
 
-## 2024 Online Meetups
-Our online meetups are on every second Saturday in a month, at 20:00 CE(S)T. Meetings happen on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [##bsd.si](https://web.libera.chat/##bsd.si).
+## 2024 Virtual Online Meetings
+Our virtual online meetings are on every second Saturday in a month, at 20:00 CE(S)T. Meetings happen on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [##bsd.si](https://web.libera.chat/##bsd.si).
 * 13 April 2024 at 20:00 CEST
 * 11 May 2024 at 20:00 CEST
 * 8 June 2024 at 20:00 CEST
